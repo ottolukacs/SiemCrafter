@@ -2,7 +2,7 @@
 integrity_checks:
   - agent: all
     directories:
-      - /opt/valami
+      - /opt/something
 
 # For dashboard container or host
 initial_user: "admin"
