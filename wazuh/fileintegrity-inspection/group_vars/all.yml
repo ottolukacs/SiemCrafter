@@ -1,0 +1,6 @@
+# Defined hosts and paths for investigating
+integrity_checks:
+  - agent: all
+    directories:
+      - /opt/something
+      - /opt/file.md
