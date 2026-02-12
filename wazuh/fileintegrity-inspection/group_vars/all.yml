@@ -4,3 +4,7 @@ integrity_checks:
     directories:
       - /opt/something
       - /opt/file.md
+
+# Wazuh credentials
+initial_user: "admin"
+initial_pass: "SecretPassword"
